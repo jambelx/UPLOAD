@@ -1,4 +1,4 @@
-const validPatients = [
+window.validPatients = [
 "ALONSO CORDERO, MARIA DE TRIANA",
 "BHIMANI, SAMREEN K",
 "FERNANDEZ, DEIMER ANTHONI",
@@ -4460,7 +4460,7 @@ const validPatients = [
   ];
 
 
-  const validFirms = [
+  window.validFirms = [
   "MARON MARVEL BRADLEY ANDERSON & TARDY, LLC",
   "ALFORD & CLARK, PLLC",
   "ANDERSON ALEXANDER, PLLC",
